@@ -1,3 +1,5 @@
+## Personal projects:
+
 ### Data storytelling / analysis
 - Does social media audience data reflect migration stats?  
   A scrollytelling project comparing Meta Ads audience estimates with official migration stats.  
