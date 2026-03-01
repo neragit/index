@@ -1,16 +1,13 @@
-### Data Storytelling / Analysis
+### Data storytelling / analysis
 - Does social media audience data reflect migration stats?  
   A scrollytelling project comparing Meta Ads audience estimates with official migration stats.  
-  Tech: React, TypeScript, D3.js, Node, Supabase
 
-#### Interactive Dashboards
+### Interactive dashboards
 - Croatia Migration Data Dashboard  
   A long-form dashboard with choropleths, treemaps, and custom visualizations.
 
-### Fun & Playful Projects
-These are mostly small experiments — good for creativity and practicing animation / logic.
+### Fun games // coding experiments
 
 - Nine Men’s Morris
-- Tetris clone
+- Bubble Tetris
 - Rock-Paper-Scissors-Lizard-Spock
-- Random JS & DOM tinkering
